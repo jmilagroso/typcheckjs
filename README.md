@@ -1,4 +1,4 @@
-# typcheckjsjs
+# typcheckjs
 
 Data type checks in Javascript.
 
