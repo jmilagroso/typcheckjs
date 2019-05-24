@@ -2,6 +2,8 @@
 
 Data type checks in Javascript.
 
+[![Build Status](https://travis-ci.org/jmilagroso/typcheckjs.svg?branch=master)](https://travis-ci.org/jmilagroso/typcheckjs)
+
 ## Introduction
 
 To check what data type something has in javascript is not always the easiest. The language itself provides an operator called typeof for that which works in a straightforward way. Typeof returns a string of what a values data type is, so for an object "object" is returned and for a string "string".
