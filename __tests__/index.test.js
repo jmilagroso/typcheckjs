@@ -97,11 +97,11 @@ test('isDate() should return false', () => {
   expect(typcheckjs.isDate('hello there')).toBe(false);
 });
 
-test('isSymbo() should return true', () => {
+test('isSymbol() should return true', () => {
   const symbol = Symbol(34);
   expect(typcheckjs.isSymbol(symbol)).toBe(true);
 });
 
-test('isSymbo() should return false', () => {
+test('isSymbol() should return false', () => {
   expect(typcheckjs.isSymbol('hello there')).toBe(false);
 });

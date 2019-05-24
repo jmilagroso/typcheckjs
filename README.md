@@ -129,8 +129,8 @@ jay@ThinkPad  /usr/share/nginx/html/typcheck   master  npm test
   ✓ isError() should return false
   ✓ isDate() should return true
   ✓ isDate() should return false
-  ✓ isSymbo() should return true (1ms)
-  ✓ isSymbo() should return false
+  ✓ isSymbol() should return true (1ms)
+  ✓ isSymbol() should return false
 
 ----------|----------|----------|----------|----------|-------------------|
 File      |  % Stmts | % Branch |  % Funcs |  % Lines | Uncovered Line #s |
