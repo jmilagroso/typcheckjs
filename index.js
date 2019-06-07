@@ -8,7 +8,7 @@
 module.exports.isString = value => typeof value === 'string' || value instanceof String;
 
 // Returns true if a value is really a number.
-// From typeof more things than just an ordinary number will return "number" like NaN and Infinity. 
+// From typeof more things than just an ordinary number will return "number" like NaN and Infinity.
 // To know if a value really is a number the function isFinite is also required.
 module.exports.isNumber = value => typeof value === 'number' && Number.isFinite(value);
 
@@ -36,7 +36,8 @@ module.exports.isObject = value => value && typeof value === 'object' && value.c
 module.exports.isNull = value => value === null;
 
 // Returns true if a value is undefined.
-// Most times you don't need to check explicitly for null and undefined since they're both falsy values.
+// Most times you don't need to check explicitly for null
+// and undefined since they're both falsy values.
 module.exports.isUndefined = value => typeof value === 'undefined';
 
 // Returns true if a value is a boolean.
