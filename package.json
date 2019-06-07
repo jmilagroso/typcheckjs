@@ -4,7 +4,9 @@
   "description": "Data type checks in Javascript.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage --coverageReporters=text-lcov | coveralls"
+    "test": "jest test",
+    "test-with-coverage": "jest --coverage",
+    "coveralls": "cat coverage/lcov.info | coveralls"
   },
   "repository": {
     "type": "git",
