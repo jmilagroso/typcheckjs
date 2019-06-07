@@ -4,7 +4,7 @@
   "description": "Data type checks in Javascript.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage --coverageReporters=text-lcov | coveralls"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/jmilagroso/typcheckjs#readme",
   "devDependencies": {
+    "coveralls": "^3.0.4",
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.17.2",
