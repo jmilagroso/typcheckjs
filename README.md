@@ -2,6 +2,7 @@
 
 Data type checks in Javascript.
 
+[![Coverage Status](https://coveralls.io/repos/github/jmilagroso/typcheckjs/badge.svg?branch=feature/coveralls-integration)](https://coveralls.io/github/jmilagroso/typcheckjs?branch=feature/coveralls-integration)
 [![Build Status](https://travis-ci.org/jmilagroso/typcheckjs.svg?branch=master)](https://travis-ci.org/jmilagroso/typcheckjs)
 
 ## Introduction
