@@ -2,7 +2,7 @@
 
 Data type checks in Javascript.
 
-[![Quality Gate Status](https://sonarqube.greatdealscorp.com/api/project_badges/measure?project=typejs&metric=alert_status&token=sqb_3c9f2e34ba60d921e3c6342c4226f8c6e8b0d182)](https://sonarqube.greatdealscorp.com/dashboard?id=typejs)
+[![Quality Gate Status](https://sonarqube.greatdealscorp.com/api/project_badges/measure?project=typcheckjs&metric=alert_status&token=sqb_7a4ee5f8ef1c5e83fd28aa3dc4a817f67158b0b2)](https://sonarqube.greatdealscorp.com/dashboard?id=typcheckjs)
 [![npm version](https://badge.fury.io/js/typcheckjs.svg)](https://badge.fury.io/js/typcheckjs)
 [![Coverage Status](https://coveralls.io/repos/github/jmilagroso/typcheckjs/badge.svg?branch=feature/coveralls-integration)](https://coveralls.io/github/jmilagroso/typcheckjs?branch=feature/coveralls-integration)
 
